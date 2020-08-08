@@ -4,4 +4,4 @@
 きぃくんのインスタグラムは[こちら](https://www.instagram.com/keykun_0501/)。
 
 # 目次
-- 1_scraping: インスタグラムからの画像取得および投稿日・投稿コメントの取得。
+- [1_scraping](https://github.com/Hexans/keykun_tutorial/tree/master/1_scraping): インスタグラムからの画像取得および投稿日・投稿コメントの取得。
